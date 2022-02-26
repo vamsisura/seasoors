@@ -1,0 +1,902 @@
+
+/*after 376px*/
+
+@media (min-width:375px) {
+
+/*header-section*/
+.navbar-brand img {
+    width: 44%;
+    border-radius: 50%;
+    margin-left: 3rem;
+}
+
+
+/*landing-section*/
+
+.landing-section-container {
+    padding-left: 2rem;
+}
+
+    .landing-title {
+        font-size: 4rem;
+        line-height: 5rem;
+        padding-bottom: 2rem;
+    }
+
+    .landing-description {
+        font-size: 1.8rem;
+        line-height: 3rem;
+        padding-bottom: 2rem;
+        color: #4d4b4b;
+    }
+
+
+    .landing-img-box img {
+        width: 163%;
+        margin-top: 2rem;
+        margin-left: -7rem;
+    }
+
+    .btn1 {
+        font-size: 1.4rem;
+        margin-left: -2rem;
+        margin-top: 0rem;
+        background-color: black;
+        padding: 0rem 3rem;
+        border-radius: 3rem;
+        color: #fff;
+    }
+
+
+    .btn2 {
+        font-size: 6rem;
+        margin-top: -1.2rem;
+        color: black;
+        background-color: #fff;
+        margin-left: 2rem;
+    }
+
+    .btn3 {
+        font-size: 1.4rem;
+        margin-top: 0rem;
+        background-color: #fff;
+        padding: 0rem 3rem;
+        border-radius: 3rem;
+        color: black;
+    }
+    
+    /*service-section*/
+    .service-content-title {
+        font-size: 2.5rem;
+        font-weight: 700;
+        color: #fff;
+        line-height: 5.5rem;
+        margin-left: 1rem;
+        margin-bottom: 2rem;
+        padding-top: 2rem;
+        text-transform: uppercase;
+        text-align: center;
+    }
+
+    .service-card-content img {
+        width: 100%;
+        height: 23rem;
+    }
+
+/*gallery-section*/
+
+.gallery-content-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: rgb(5, 4, 4);
+    line-height: 5.5rem;
+    margin-left: 1rem;
+    margin-bottom: 2rem;
+    padding-top: 2rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+/*gallery-section*/
+
+.gallery-img4 img {
+    width: 100%;
+    border-radius: 2rem;
+    margin-top: -1rem;
+    height: 100%;
+    transition: 0.4s;
+}
+
+.gallery-img3 img {
+    width: 100%;
+    border-radius: 2rem;
+    height: 135%;
+    transition: 0.4s;
+    margin-top: -12rem;
+}
+
+/*testimonials*/
+
+.testimonials-cndts img {
+    width: 100%;
+    padding-left: 6rem;
+    padding-right: 6rem;
+    height: 37rem;
+}
+
+.testimonials-secoundry {
+    font-size: 3.75rem;
+}
+
+
+
+.testimonials-heading {
+    font-size: 4rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-top: 2rem;
+}
+
+.testimonials-discription {
+    line-height: 2.5rem;
+    font-size: 1.8rem;
+    font-weight: 500;
+    color: #4d4b4b;
+}
+/*booking-section*/
+
+.form-label {
+    font-size: 1.5rem;
+    color: #fff;
+}
+
+.form-control {
+    font-size: 1.5rem;
+    filter: opacity(0.6);
+}
+
+/*footer-section*/
+
+.contact-info {
+    padding-left: 14rem;
+    background-color: black;
+}
+
+.img-cont {
+    font-size: 1.5rem;
+    margin-left: 2rem;
+    font-weight: 900;
+}
+
+.img-cont1 {
+    font-size: 1.8rem;
+    padding-bottom: 1.5rem;
+    margin-left: 2rem;
+}
+
+.footer-logo img {
+    width: 30%;
+    border-radius: 50%;
+    margin-left: 10rem;
+    margin-bottom: 2rem;
+}
+
+}
+
+/*after 576*/
+@media(min-width:576px){
+
+
+/*landing-section*/
+
+    .landing-section-container {
+        padding-left: 7rem;
+    }
+
+
+    .landing-title {
+        font-size: 3rem;
+        line-height: 4rem;
+        padding-bottom: 1rem;
+    }
+
+    .landing-description {
+        font-size: 1.5rem;
+        line-height: 3rem;
+        padding-bottom: 1rem;
+        color: #4d4b4b;
+    }
+
+    .landing-img-box img {
+        width: 100%;
+        margin-top: 0rem;
+    }
+
+    .btn1 {
+        font-size: 1.2rem;
+        margin-left: -2rem;
+        margin-top: 0rem;
+        background-color: black;
+        padding: 1rem 4rem;
+        border-radius: 3rem;
+        color: #fff;
+    }
+
+    .btn2 {
+        font-size: 6.8rem;
+        margin-top: -1.2rem;
+        color: black;
+        background-color: #fff;
+        margin-left: 1rem;
+    }
+
+    .btn3 {
+        font-size: 1.2rem;
+        margin-top: 0rem;
+        background-color:#fff;
+        padding: 1rem 4rem;
+        border-radius: 3rem;
+        color: black;
+    }
+
+
+/*service-section*/
+
+.service-content-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #fff;
+    line-height: 5.5rem;
+    margin-left: 1rem;
+    margin-bottom: 2rem;
+    padding-top: 2rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.service-card-content img {
+    width: 100%;
+    height: 23rem;
+}
+
+
+/*gallery-section*/
+
+.gallery-content-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: rgb(5, 4, 4);
+    line-height: 5.5rem;
+    margin-left: 1rem;
+    margin-bottom: 2rem;
+    padding-top: 2rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.gallery-img3 img {
+    width: 100%;
+    border-radius: 2rem;
+    height: 97%;
+    transition: 0.4s;
+    margin-top: 0rem;
+}
+
+
+.gallery-img4 img {
+    width: 100%;
+    border-radius: 2rem;
+    margin-top: -12rem;
+    height: 154%;
+    transition: 0.4s;
+}
+
+/*testimonials*/
+
+
+.testimonials-cndts img {
+    width: 100%;
+    padding-left: 10rem;
+    padding-right: 6rem;
+    height: 24rem;
+}
+
+
+
+.testimonials-heading {
+    font-size: 2rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.testimonials-secoundry {
+    font-size: 1.5rem;
+}
+
+.testimonials-discription {
+    line-height: 2rem;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #4d4b4b;
+}
+
+/*footer-section*/
+
+
+
+.img-cont {
+    font-size: 2rem;
+    margin-left: 5rem;
+}
+
+
+.img-cont1 {
+    font-size: 2rem;
+    padding-bottom: 1.5rem;
+    margin-left: 7rem;
+}
+
+
+.footer-logo img {
+    width: 22%;
+    border-radius: 50%;
+    margin-left: 18rem;
+    margin-bottom: 2rem;
+}
+
+.contact-info {
+    padding-left: 23rem;
+    background-color: black;
+}
+
+.contact-info {
+    padding-left: 23rem;
+    background-color: black;
+    margin-left: -2rem;
+}
+
+.footer-icon {
+    list-style: none;
+    font-size: 3rem;
+    display: flex;
+    margin-left: -7rem;
+    padding-top: 1rem;
+}
+
+
+}
+  /*after 768px*/
+  @media(min-width:768px){
+
+
+/*landing-section*/
+
+    .landing-title {
+        font-size: 3.5rem;
+        line-height: 5rem;
+        padding-bottom: 1rem;
+    }
+
+    .landing-description {
+        font-size: 1.9rem;
+        line-height: 3rem;
+        padding-bottom: 1rem;
+        color: #4d4b4b;
+    }
+
+    .landing-img-box img {
+        width: 100%;
+        margin-top: -6rem;
+    }
+
+/*service-section*/
+
+    .card-name {
+        font-size: 1.5rem;
+        font-weight: 500;
+        color: #fff;
+        padding-top: 2rem;
+        text-transform: uppercase;
+        margin-bottom: 3rem;
+        text-align: center;
+    }
+
+/*gallery-section*/
+
+
+.gallery-img1 img {
+    width: 100%;
+    border-radius: 2rem;
+    height: 45%;
+    transition: 0.4s;
+}
+
+.gallery-img2 img {
+    width: 100%;
+    border-radius: 2rem;
+    height: 90%;
+    transition: 0.4s;
+}
+
+
+.gallery-img4 img {
+    width: 100%;
+    border-radius: 2rem;
+    margin-top: -7rem;
+    height: 136%;
+    transition: 0.4s;
+}
+
+.gallery-img6 img {
+    width: 74%;
+    border-radius: 2rem;
+    height: 76%;
+    transition: 0.4s;
+}
+
+/*testimonials*/
+
+
+
+
+.testimonials-cndts img {
+    width: 94%;
+    padding-left: 10rem;
+    padding-right: 6rem;
+    height : 24rem;
+}
+
+
+.testimonials-heading {
+    font-size: 3rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+
+.testimonials-secoundry {
+    font-size: 2rem;
+}
+
+/*footer-section*/
+
+
+.footer-logo img {
+    width: 22%;
+    border-radius: 50%;
+    margin-left: 12rem;
+    margin-bottom: 2rem;
+}
+
+
+.img-cont {
+    font-size: 1.7rem;
+    margin-left: 1rem;
+}
+
+.img-cont1 {
+    font-size: 1.7rem;
+    padding-bottom: 1.5rem;
+    margin-left: 3rem;
+}
+
+.contact-info {
+    padding-left: 23rem;
+    background-color: black;
+    margin-left: -8rem;
+    margin-right: -7rem;
+}
+
+
+  }
+
+/*after 992*/
+
+@media(min-width:992px){
+
+/*header-section*/
+.navbar-brand img {
+    width: 100%;
+    border-radius: 50%;
+    margin-left: 3rem;
+}
+.navbar-brand {
+    width: 6%;
+}
+
+.nav-link {
+    font-size: 2rem;
+    color: #000 !important;
+    padding: 1rem 2rem !important;
+    border-radius: 4rem;
+}
+.nav-item {
+    margin-right: -9rem;
+    margin-left: 13rem;
+}
+/*landing-section*/
+
+    .landing-title {
+        font-size: 6.5rem;
+        line-height: 8rem;
+        padding-bottom: 1rem;
+    }
+
+    .landing-description {
+        font-size: 2.9rem;
+        line-height: 4rem;
+        padding-bottom: 1rem;
+        color: #4d4b4b;
+    }
+
+
+    .btn1 {
+        font-size: 2rem;
+        margin-left: -2rem;
+        margin-top: 0rem;
+        background-color: black;
+        padding: 1rem 3rem;
+        border-radius: 3rem;
+        color: #fff;
+    }
+
+
+    .btn2 {
+        font-size: 6.8rem;
+        margin-top: -1.5rem;
+        color: black;
+        background-color: #fff;
+        margin-left: 1rem;
+    }
+
+
+    .btn3 {
+        font-size: 2rem;
+        margin-top: 0rem;
+        background-color: #fff;
+        padding: 1rem 3rem;
+        border-radius: 3rem;
+        color: black;
+    }
+
+/*gallery-section*/
+    
+
+.gallery-img1 img {
+    width: 100%;
+    border-radius: 2rem;
+    height: 47%;
+    transition: 0.4s;
+}
+
+.gallery-img4 img {
+    width: 99%;
+    border-radius: 2rem;
+    margin-top: -10rem;
+    height: 143%;
+    transition: 0.4s;
+}
+
+.gallery-img3 img {
+    width: 100%;
+    border-radius: 2rem;
+    height: 87%;
+    transition: 0.4s;
+    margin-top: 1rem;
+}
+
+.gallery-img6 img {
+    width: 101%;
+    border-radius: 2rem;
+    height: 76%;
+    transition: 0.4s;
+}
+
+
+/*testimonials-section*/
+
+.testimonials-discription {
+    line-height: 2rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #4d4b4b;
+}
+
+.testimonials-discription {
+    line-height: 2rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #4d4b4b;
+}
+
+/*footer-section*/
+
+
+.footer-logo img {
+    width: 22%;
+    border-radius: 50%;
+    margin-left: 16rem;
+    margin-bottom: 2rem;
+}
+
+.contact-info {
+    padding-left: 28rem;
+    background-color: black;
+    margin-left: -8rem;
+    margin-right: -7rem;
+}
+
+.img-cont {
+    font-size: 2.7rem;
+    margin-left: -1rem;
+}
+
+.img-cont1 {
+    font-size: 2.7rem;
+    padding-bottom: 1.5rem;
+    margin-left: 2rem;
+}
+
+
+}
+
+/*after 1200px*/
+@media(min-width:1200px){
+
+/*heade-section*/
+.navbar-brand img {
+    width: 112%;
+    border-radius: 50%;
+    margin-left: 3rem;
+}
+
+
+.nav-link {
+    font-size: 3rem;
+    color: #000 !important;
+    padding: 1rem 2rem !important;
+    border-radius: 4rem;
+}
+
+/*landing-section*/
+
+
+.landing-title {
+    font-size: 7.5rem;
+    line-height: 8rem;
+    padding-bottom: 2rem;
+}
+
+.landing-description {
+    font-size: 3rem;
+    line-height: 5rem;
+    padding-bottom: 2rem;
+    color: #4d4b4b;
+}
+
+.btn1 {
+    font-size: 3rem;
+    margin-left: -2rem;
+    margin-top: 0rem;
+    background-color: black;
+    padding: 1rem 3rem;
+    border-radius: 4rem;
+    color: #fff;
+}
+
+.btn2 {
+    font-size: 7.8rem;
+    margin-top: -1.2rem;
+    color: black;
+    background-color: #fff;
+    margin-left: 1rem;
+}
+
+.btn3 {
+    font-size: 3rem;
+    margin-top: 0rem;
+    background-color: #fff;
+    padding: 1rem 3rem;
+    border-radius: 3rem;
+    color: black;
+}
+
+/*service-section*/
+
+.card-name {
+    font-size: 2rem;
+    font-weight: 500;
+    color: #fff;
+    padding-top: 2rem;
+    text-transform: uppercase;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+/*gallery-section*/
+
+.gallery-img4 img {
+    width: 99%;
+    border-radius: 2rem;
+    margin-top: -12rem;
+    height: 146%;
+    transition: 0.4s;
+}
+
+/*testimonials*/
+.testimonials-cndts img {
+    width: 100%;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    height: 26rem;
+}
+
+.testimonials-heading {
+    font-size: 4rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.testimonials-secoundry {
+    font-size: 2.7rem;
+}
+
+
+.testimonials-discription {
+    line-height: 3rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #4d4b4b;
+}
+
+/*footer-section*/
+
+.contact-info {
+    padding-left: 33rem;
+    background-color: black;
+    margin-left: -8rem;
+    margin-right: -7rem;
+}
+
+
+.img-cont {
+    font-size: 3.7rem;
+    margin-left: 1rem;
+}
+
+.img-cont1 {
+    font-size: 3.7rem;
+    padding-bottom: 1.5rem;
+    margin-left: 5rem;
+}
+
+.contact-info {
+    padding-left: 38rem;
+    background-color: black;
+    margin-left: -8rem;
+    margin-right: -7rem;
+}
+
+.footer-logo img {
+    width: 22%;
+    border-radius: 50%;
+    margin-left: 25rem;
+    margin-bottom: 2rem;
+}
+
+}
+
+/*after 1400px*/
+@media(min-width:1400px){
+
+/*header-section*/
+    .nav-link {
+        font-size: 3.5rem;
+        color: #000 !important;
+        padding: 1rem 2rem !important;
+        border-radius: 4rem;
+    }
+
+    /*landing-section*/
+
+    .landing-title {
+        font-size: 8.5rem;
+        line-height: 10rem;
+        padding-bottom: 2rem;
+    }
+
+    .landing-description {
+        font-size: 3.2rem;
+        line-height: 5rem;
+        padding-bottom: 2rem;
+        color: #4d4b4b;
+    }
+
+    .landing-img-box img {
+        width: 100%;
+        margin-top: -16rem;
+    }
+
+/*gallery-section*/
+
+.gallery-img4 img {
+    width: 99%;
+    border-radius: 2rem;
+    margin-top: -14rem;
+    height: 145%;
+    transition: 0.4s;
+}
+.gallery-img2 img {
+    width: 100%;
+    border-radius: 2rem;
+    height: 93%;
+    transition: 0.4s;
+}
+
+.gallery-img3 img {
+    width: 94%;
+    border-radius: 2rem;
+    height: 89%;
+    transition: 0.4s;
+    margin-top: 1rem;
+}
+
+.gallery-img1 img {
+    width: 100%;
+    border-radius: 2rem;
+    height: 49%;
+    transition: 0.4s;
+}
+
+
+/*testinomials-section*/
+
+
+.testimonials-cndts img {
+    width: 100%;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    height: 31rem;
+}
+
+.testimonials-secoundry {
+    font-size: 3rem;
+}
+
+.testimonials-discription {
+    line-height: 3rem;
+    font-size: 2rem;
+    font-weight: 500;
+    color: #4d4b4b;
+}
+
+
+/*footer-section*/
+
+.img-cont {
+    font-size: 4rem;
+    margin-left: 4rem;
+}
+
+.img-cont1 {
+    font-size: 3.7rem;
+    padding-bottom: 1.5rem;
+    margin-left: 10rem;
+}
+
+.contact-info {
+    padding-left: 38rem;
+    background-color: black;
+    margin-left: -2rem;
+    margin-right: 0rem;
+}
+
+.footer-logo img {
+    width: 21%;
+    border-radius: 50%;
+    margin-left: 28rem;
+    margin-bottom: 2rem;
+}
+
+}
+

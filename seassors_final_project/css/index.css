@@ -1,0 +1,406 @@
+html{
+    font-size: 55.5%;
+} 
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*header-section*/
+
+
+.navbar-brand{
+    width: 30%;
+}
+
+.navbar-brand img{
+    width: 23%;
+    border-radius: 50%;
+    margin-left: 11rem;
+}
+
+.nav-link{
+    font-size: 2.5rem;
+    color: #000 !important;;
+    padding: 1rem 2rem !important;
+    border-radius: 4rem;
+}
+
+.nav-link:hover{
+    color: #fff !important;
+    background-color: black!important;
+}
+
+.nav-item{
+    margin-right: 4rem;
+}
+
+/*landing-section*/
+
+.landing-section-container{
+    padding-left: 13rem;
+}
+
+.landing-text-content{
+    padding-top: 10rem;
+}
+
+.landing-title{
+        font-size: 9rem;
+        line-height: 9rem;
+        padding-bottom: 2rem;
+      
+}
+
+.landing-description{
+    font-size: 2.8rem;
+    line-height: 4rem;
+    padding-bottom: 2rem;
+    color: #4d4b4b;
+}
+
+.landing-img-box img{
+    width: 100%;
+    margin-top: -18rem;  
+}
+
+.landing-btn-grp{
+    display: flex;
+    list-style: none;
+}
+
+.landing-btn-grp a{
+    text-decoration: none;
+}
+
+.btn1{
+    font-size: 2.4rem;
+    margin-left: 7rem;
+    margin-top: 0rem;
+    background-color: black;
+    padding: 1rem 3rem;
+    border-radius: 3rem;
+    color: #fff;
+}
+
+.btn2{
+    font-size: 6rem;
+    margin-top: -1rem;
+    color: black;
+    background-color: #fff;
+    margin-left: 2rem;
+}
+
+.btn3{
+    font-size: 2.4rem;
+    margin-top: 0rem;
+    background-color:#fff;
+    padding: 1rem 3rem;
+    border-radius: 3rem;
+    color: black;
+}
+
+/*service-section*/
+
+.service-content-container{
+    background-color: black;
+    width: 89%;
+}
+
+.service-content-title{
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #fff;
+    line-height: 5.5rem;
+    margin-left: 1rem;
+    margin-bottom: 2rem;
+    padding-top: 2rem;
+    text-transform: uppercase;
+}
+
+.service-card-content img{
+    width:86%;
+    height: 23rem;
+} 
+
+.card-name{
+    font-size: 2rem;
+    font-weight: 500;
+    color: #fff;
+    padding-top: 2rem;
+    text-transform: uppercase;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+/*gallery-section*/
+
+.gallery-content-container{
+    padding-bottom: 3rem;
+}
+
+.gallery-content-title{
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: rgb(5, 4, 4);
+    line-height: 5.5rem;
+    margin-left: 1rem;
+    margin-bottom: 2rem;
+    padding-top: 2rem;
+    text-transform: uppercase;
+}
+
+.gallery-imgs{
+    background-color: #fff;
+}
+
+.gallery-img1 img{
+    width: 100%;
+   border-radius: 2rem;
+   height: 45%;
+   transition:  0.4s;
+}
+
+.gallery-img1 img:hover{
+    transform: scale(1.1);
+}
+
+.gallery-img2 img{
+    width: 100%;
+    
+   border-radius: 2rem;
+   height: 93%;
+   transition:  0.4s;
+}
+
+.gallery-img2 img:hover{
+    transform: scale(1.1);
+}
+
+.gallery-img3 img{
+    width: 100%; 
+   border-radius: 2rem;
+   height: 97%;
+   transition:  0.4s;
+}
+
+.gallery-img3 img:hover{
+    transform: scale(1.1);
+}
+
+.gallery-img4 img{
+    width: 100%;
+   border-radius: 2rem;
+   margin-top: -15rem;
+   height: 154%;
+   transition:  0.4s;  
+}
+
+.gallery-img4 img:hover{
+    transform: scale(1.1);
+}
+
+.gallery-img5 img{
+    width: 100%;
+   border-radius: 2rem;
+   height: 84%;
+   margin-top: -1rem;
+   transition:  0.4s;
+}
+
+.gallery-img5 img:hover{
+    transform: scale(1.1);
+}
+
+.gallery-img6 img{
+   width: 100%;
+   border-radius: 2rem;
+   height: 79%;
+   transition:0.4s;
+}
+
+.gallery-img6 img:hover{
+    transform: scale(1.1);
+}
+
+/*testimonials-section*/
+
+ .testimonials-containers{
+     padding-bottom: 4rem;   
+}  
+
+.testimonials-cndts img{
+    width: 100%;
+    padding-left: 10rem;
+    padding-right: 6rem;
+    height: 45rem;
+}
+
+.testimonials-heading {
+        font-size: 3rem;
+        font-weight: 700;
+        text-transform: uppercase;
+ }
+
+.testimonials-secoundry {
+    font-size: 5.75rem;
+}
+
+.testimonials-discription{
+    line-height: 3rem;
+    font-size: 2rem;
+    /* font-weight: 500; */
+    color: #4d4b4b;
+}
+
+.testimonials-content-text h6{
+font-size: 2rem;
+font-weight: 700;
+}
+
+/*booking-section*/
+
+.booking-container{
+    background-image: url(../media/vamsi21.jpg);
+    height: 45rem;
+    background-size: cover;
+    /* margin-top: 4rem; */
+    background-attachment: fixed; 
+    width: 89%;
+}
+
+.appointment-form{
+    padding-top: 3rem;
+}
+
+.booking-btn {
+    width: 14rem;
+    height: 4rem;
+    border-radius: 1rem;
+    filter: opacity(0.7);
+    margin-left: 0rem;
+    margin-top: 2rem;
+}
+.form-control {
+    font-size: 2rem;
+    filter: opacity(0.6);
+}
+
+.form-select {
+    font-size: 2rem;
+    filter: opacity(0.6);
+}
+
+.form-label {
+    margin-bottom: 0.5rem;
+    font-size: 2rem;
+    color: #fff;
+}
+
+/*footer-section*/
+
+.footer-container {
+    padding-top: 7rem;
+    padding-left: 9rem;
+}
+
+
+.footer-logo{
+    margin-left: -7rem;
+}
+
+.img-cont {
+    font-size: 2.5rem;
+    margin-left: 14rem;
+}
+
+.img-cont1 {
+    font-size: 2.5rem;
+    padding-bottom: 1.5rem;
+    margin-left: 17rem;
+}
+.footer-logo img {
+    width: 22%;
+    border-radius: 50%;
+    margin-left: 27rem;
+    margin-bottom: 2rem;
+}
+
+.contact-info {
+    padding-left: 31rem;
+    background-color: black;
+}
+
+.nmbr {
+    font-size: 2.5rem;
+    margin-left: -8rem;
+    color: #fff;
+}
+
+
+.mail {
+    font-size: 2.5rem;
+    margin-left: -12rem;
+    color: #fff;
+}
+.contact {
+    font-size: 3rem;
+    margin-left: -4rem;
+    color: #fff;
+    margin-bottom: 2rem;
+    padding-top: 3rem;
+}
+
+.footer-icon {
+    list-style: none;
+    font-size: 3rem;
+    display: flex;
+    margin-left: -6rem;
+    padding-top: 2rem;
+}
+.icons{
+    padding-right: 2rem;
+    color: #fff;
+}
+
+
+
+/* back-to-top */
+
+.back-to-top {
+    font-size: 20px;
+    color: #fff;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    border-radius: 5px;
+    background-color:#000;
+    text-align: center;
+    z-index: 99;
+    transition: all .3s ease-out 0s;
+    display: none;
+}
+
+.back-to-top-icon {
+    display: inline-block;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+}
+
+
+
+
+
+
+
+
+
